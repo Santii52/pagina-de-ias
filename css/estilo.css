@@ -1,0 +1,89 @@
+#chat-gpt {
+    width: 500px;
+}
+main, nav, footer {
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    background-color: rgb(73, 104, 145);
+}
+
+header, footer {
+    background-color: rgb(48, 56, 78);
+}
+
+h2 {
+    color: rgb(61, 140, 243);
+    font-family: "Arial";
+}
+
+main, body {
+    background-color: rgb(26, 35, 41);
+}
+
+.contenedor {
+    width: 60px;
+    display: flex;
+}
+
+#imagen-de-pagina {
+    width:100px;
+}
+
+/* BLOQUE DE LOGIN */
+#login {
+    color: rgb(117, 238, 117);
+}
+
+#inicio {
+    color: rgb(117, 238, 117);
+}
+/* ACA TERMINA EL BLOQUE DEL LOGIN */
+
+/* SOBRE NOSOTROS */
+#about-me {
+    color: rgb(185, 123, 243);
+}
+
+#about-me2 {
+    color: rgb(185, 123, 243);
+}
+/* ACA TERMINA SOBRE NOSOTROS */
+
+#contact {
+    color: rgb(228, 136, 240);
+}
+
+h1 {
+    color: rgb(140, 195, 240);
+}
+
+p {
+    color: rgb(179, 197, 248);
+}
+
+h4, h3 {
+    color: rgb(144, 245, 198);
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#formulario {
+    color: rgb(144, 144, 221);
+}
+
+address {
+    color: rgb(240, 154, 252);
+}
+
+#click-aqui {
+    color: rgb(203, 176, 228);
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
