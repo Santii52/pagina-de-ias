@@ -1,5 +1,5 @@
 #chat-gpt {
-    width: 500px;
+    width: 700px;
 }
 main, nav, footer {
     text-align: center;
@@ -14,9 +14,9 @@ header, footer {
     background-color: rgb(48, 56, 78);
 }
 
-h2 {
+h2, h1 {
     color: rgb(61, 140, 243);
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
 }
 
 main, body {
@@ -24,7 +24,7 @@ main, body {
 }
 
 .contenedor {
-    width: 60px;
+    width: 100px;
     display: flex;
 }
 
@@ -68,10 +68,6 @@ h4, h3 {
     color: rgb(144, 245, 198);
 }
 
-h2 {
-    font-family: 'Courier New', Courier, monospace;
-}
-
 #formulario {
     color: rgb(144, 144, 221);
 }
@@ -84,6 +80,14 @@ address {
     color: rgb(203, 176, 228);
 }
 
+hr {
+    color: blue ;
+}
+
 * {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagen-inteligencia-artificial {
+    width: 1000px;
 }
